@@ -2,15 +2,15 @@
   "name": "myexpressboilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "live-server"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "live-server": "^0.8.2"
+    
   },
   "dependencies": {
     "express": "^4.13.3"
